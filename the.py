@@ -1,0 +1,1 @@
+print("მე ვარ ლაშა ზაზაშვილი ვარ 9 წლის ვსწავლობ GOAL-oriented academy")
